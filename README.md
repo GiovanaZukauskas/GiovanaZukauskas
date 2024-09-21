@@ -15,5 +15,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaZukauskas&layout=compact)
 
-#### Cursando ADS na SPTech 📚
+#### Cursando ADS na São Paulo Tech School 📚
 #### Apaixonada por tecnologia, sempre curiosa e em busca de aprender e compartilhar conhecimento. 
